@@ -35,4 +35,5 @@ def turn(board)
   if valid.move?
     true
   else input_to_index(user_input)
+  end
 end
