@@ -26,10 +26,6 @@ end
   end
 end
 
-# board = ["O", "X", " ", " ", "X", " ", "X", "0", " "]
-
-# display_board(board)
-
 def turn(board)
   puts "Please enter 1-9:"
 
